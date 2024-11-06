@@ -3,7 +3,7 @@
 def q1():
   #Write Assignment code here
   #Remember your code must be indented once
-print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n* * * * * *\n *    *\n  *   *\n   *  *\n    * *\n     *", end = "")
+  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n* * * * * *\n *    *\n  *   *\n   *  *\n    * *\n     *", end = "")
 def q2():
   #Write Assignment code here
   print("Hello World", end = "")
