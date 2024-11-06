@@ -9,7 +9,7 @@ def q2():
   print("Hello World", end = "")
 def q3():
   #Write Assignment code here
-  print("Man"\n"Board"\n"Man Overboard", end = "")
+  print("'Man'\n'Board'\n'Man Overboard'", end = "")
   
   
 
